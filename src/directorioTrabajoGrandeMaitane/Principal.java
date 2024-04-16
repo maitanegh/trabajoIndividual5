@@ -3,7 +3,9 @@ package directorioTrabajoGrandeMaitane;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		/**
+		 * Esta clase Principal tendrá un objeto de la clase Clase
+		 */
 
 	}
 
