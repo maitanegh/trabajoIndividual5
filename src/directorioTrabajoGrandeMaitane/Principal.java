@@ -6,6 +6,7 @@ public class Principal {
 		/**
 		 * Esta clase Principal tendrá un objeto de la clase Clase
 		 */
+		Clase objeto = new Clase();
 
 	}
 
